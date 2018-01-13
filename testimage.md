@@ -1,15 +1,33 @@
+Original
+
+![](media/image1.jpeg){width="4.997222222222222in"
+height="3.7604166666666665in"}
+
+Tiff
+
+![](media/image3.tiff){width="5.0in" height="3.763888888888889in"}
+
+JPEG
+
+![](media/image4.jpeg){width="3.75in" height="2.8229166666666665in"}
+
 PNG
 
-![](media/image1.png){width="5.0in" height="3.76in"}
+![](media/image5.png){width="5.0in" height="3.7597222222222224in"}
 
-GIF
+MS Object
 
-![](media/image2.gif){width="5.0in" height="3.763888888888889in"}
+![](media/image1.jpeg){width="4.997222222222222in"
+height="3.7604166666666665in"}
 
-pdf
+PDF
 
-![](media/image3.emf){width="5.0in" height="3.763888888888889in"}
+![](media/image6.emf){width="5.0in" height="3.763888888888889in"}
 
-BMP
+PNG inside table box
 
-![](media/image4.png){width="5.0in" height="3.763888888888889in"}
+  ------------------------------------------------------
+  ![](media/image7.png){width="5.0in" height="3.76in"}
+  ------------------------------------------------------
+
+
